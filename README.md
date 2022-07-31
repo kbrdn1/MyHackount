@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my first MERN project. I build a social media with Nodes.js to create an API with MongoDB and Express and React.js to create the App interface.
+This is my first MERN project. It is a social network made with Nodes.js to create an API with MongoDB and Express then React.js to create the interface of the app.
 
 ## Technologies used within this project
 
