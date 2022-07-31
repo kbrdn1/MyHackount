@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my first MERN project. I build a social media with Nodes.js to create an API with MongoDB and Express and React.js to create the interface.
+This is my first MERN project. I build a social media with Nodes.js to create an API with MongoDB and Express and React.js to create the App interface.
 
 ## Technologies used within this project
 
@@ -39,6 +39,7 @@ TOKEN_SECRET=     /* enter a random secret token (exemple: "63e45d11c84d424") */
 
 REACT_APP_API_URL=http://localhost:{port API}
 ```
+Go to the folder ```data``` and adding the ```post.json``` and ```users.json``` to Mongo DataBase.
 
 ## Run App
 ```:bash
