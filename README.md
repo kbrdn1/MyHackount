@@ -1,5 +1,5 @@
 # MyHackount - MERN Project
-<img alt="HTML" width="300px" src="https://kylian-bardini.fr/assets/img/MyHackount.png" />
+<img alt="img" width="300px" src="https://kylian-bardini.fr/assets/img/MyHackount.png" />
 
 ## Introduction
 
