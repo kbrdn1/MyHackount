@@ -23,7 +23,7 @@ This is my first MERN project. It is a social network made with Nodes.js to crea
 ```sh
 # ./config/.env
 PORT=     # enter the API port (by default is 5000)
-CLIENT_URL=http://localhost:3000
+APP_URL=http://localhost:3000
 DB_USER_PASS=<username>:<password>
 TOKEN_SECRET=     # enter a random secret token (exemple: "63e45d11c84d424")
 ```
@@ -41,7 +41,7 @@ for exemple :
 ### Frontend
 #### Environment variable
 ```sh
-# ./client/.env
+# ./app/.env
 REACT_APP_API_URL=http://localhost:<API port>
 ```
 Go to the folder ```data``` and adding the ```post.json``` and ```users.json``` to Mongo DataBase.
@@ -55,8 +55,8 @@ npm start
 ```
 ### Frontend
 ```sh
-cd client
-# ./client
+cd app
+# ./app
 npm i
 npm start
 ```

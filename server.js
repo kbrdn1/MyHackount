@@ -10,7 +10,7 @@ const cors = require("cors");
 const app = express();
 
 const corsOptions = {
-  origin: process.env.CLIENT_URL,
+  origin: process.env.APP_URL,
   credentials: true,
   allowedHeaders: ["sessionId", "Content-Type"],
   exposedHeaders: ["sessionId"],
